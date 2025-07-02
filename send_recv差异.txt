@@ -1,0 +1,20 @@
+===== 只在 filtered_results_send.txt 中出现的函数 (9 个) =====
+ucm_event_callback_dump                                       
+ucm_event_memory_cleanup                                      
+ucm_get_event_handler                                         
+ucm_shmat                                                     
+ucm_shmdt                                                     
+ucp_context_destroy                                           
+ucp_dt_make_iov                                               
+ucp_ep_create_to_worker_address                               
+uct_ep_tag_unexp_eager
+
+===== 只在 filtered_results_recv.txt 中出现的函数 (8 个) =====
+ucm_event_dispatch
+ucm_event_leave
+ucm_set_event_handler
+ucp_ep_create
+ucp_init_version
+ucp_lib_query
+ucp_request_check_status
+uct_ep_pending_add
